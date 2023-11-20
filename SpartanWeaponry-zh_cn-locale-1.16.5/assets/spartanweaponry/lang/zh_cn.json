@@ -870,7 +870,7 @@
 	"tooltip.spartanweaponry.enabled": "已启用",
 	"tooltip.spartanweaponry.disabled": "未启用",
 
-	"tooltip.spartanweaponry.uncraftable_missing_material": "无法合成；未找到带“%s”标签的物品",
+	"tooltip.spartanweaponry.uncraftable.missing_material": "无法合成；未找到带“%s”标签的物品",
 	"tooltip.spartanweaponry.highlight_heavy_crossbow": "%s [%s x%d]",
 
 	"message.spartanweaponry.ammo_collect_toggle": "箭矢收集：%s",
