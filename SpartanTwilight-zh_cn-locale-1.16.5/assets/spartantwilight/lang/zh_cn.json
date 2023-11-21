@@ -1,0 +1,131 @@
+{
+	"item.spartantwilight.dagger_ironwood": "铁树匕首",
+	"item.spartantwilight.dagger_fiery": "炽铁匕首",
+	"item.spartantwilight.dagger_knightly": "骑士匕首",
+	"item.spartantwilight.dagger_steeleaf": "钢叶匕首",
+
+	"item.spartantwilight.longsword_ironwood": "铁树长剑",
+	"item.spartantwilight.longsword_fiery": "炽铁长剑",
+	"item.spartantwilight.longsword_knightly": "骑士长剑",
+	"item.spartantwilight.longsword_steeleaf": "钢叶长剑",
+
+	"item.spartantwilight.battleaxe_ironwood": "铁树战斧",
+	"item.spartantwilight.battleaxe_fiery": "炽铁战斧",
+	"item.spartantwilight.battleaxe_knightly": "骑士战斧",
+	"item.spartantwilight.battleaxe_steeleaf": "钢叶战斧",
+
+	"item.spartantwilight.flanged_mace_ironwood": "铁树页锤",
+	"item.spartantwilight.flanged_mace_fiery": "炽铁页锤",
+	"item.spartantwilight.flanged_mace_knightly": "骑士页锤",
+	"item.spartantwilight.flanged_mace_steeleaf": "钢叶页锤",
+
+	"item.spartantwilight.glaive_ironwood": "铁树长柄刀",
+	"item.spartantwilight.glaive_fiery": "炽铁长柄刀",
+	"item.spartantwilight.glaive_knightly": "骑士长柄刀",
+	"item.spartantwilight.glaive_steeleaf": "钢叶长柄刀",
+
+	"item.spartantwilight.halberd_ironwood": "铁树战戟",
+	"item.spartantwilight.halberd_fiery": "炽铁战戟",
+	"item.spartantwilight.halberd_knightly": "骑士战戟",
+	"item.spartantwilight.halberd_steeleaf": "钢叶战戟",
+
+	"item.spartantwilight.hammer_ironwood": "铁树战锤",
+	"item.spartantwilight.hammer_fiery": "炽铁战锤",
+	"item.spartantwilight.hammer_knightly": "骑士战锤",
+	"item.spartantwilight.hammer_steeleaf": "钢叶战锤",
+
+	"item.spartantwilight.longbow_ironwood": "铁树强化长弓",
+	"item.spartantwilight.longbow_fiery": "炽铁强化长弓",
+	"item.spartantwilight.longbow_knightly": "骑士强化长弓",
+	"item.spartantwilight.longbow_steeleaf": "钢叶强化长弓",
+
+	"item.spartantwilight.lance_ironwood": "铁树骑枪",
+	"item.spartantwilight.lance_fiery": "炽铁骑枪",
+	"item.spartantwilight.lance_knightly": "骑士骑枪",
+	"item.spartantwilight.lance_steeleaf": "钢叶骑枪",
+
+	"item.spartantwilight.pike_ironwood": "铁树长枪",
+	"item.spartantwilight.pike_fiery": "炽铁长枪",
+	"item.spartantwilight.pike_knightly": "骑士长枪",
+	"item.spartantwilight.pike_steeleaf": "钢叶长枪",
+
+	"item.spartantwilight.quarterstaff_ironwood": "铁树硬头棍",
+	"item.spartantwilight.quarterstaff_fiery": "炽铁硬头棍",
+	"item.spartantwilight.quarterstaff_knightly": "骑士硬头棍",
+	"item.spartantwilight.quarterstaff_steeleaf": "钢叶硬头棍",
+
+	"item.spartantwilight.rapier_ironwood": "铁树迅捷剑",
+	"item.spartantwilight.rapier_fiery": "炽铁迅捷剑",
+	"item.spartantwilight.rapier_knightly": "骑士迅捷剑",
+	"item.spartantwilight.rapier_steeleaf": "钢叶迅捷剑",
+
+	"item.spartantwilight.saber_ironwood": "铁树军刀",
+	"item.spartantwilight.saber_fiery": "炽铁军刀",
+	"item.spartantwilight.saber_knightly": "骑士军刀",
+	"item.spartantwilight.saber_steeleaf": "钢叶军刀",
+
+	"item.spartantwilight.spear_ironwood": "铁树矛",
+	"item.spartantwilight.spear_fiery": "炽铁矛",
+	"item.spartantwilight.spear_knightly": "骑士矛",
+	"item.spartantwilight.spear_steeleaf": "钢叶矛",
+
+	"item.spartantwilight.warhammer_ironwood": "铁树战槌",
+	"item.spartantwilight.warhammer_fiery": "炽铁战槌",
+	"item.spartantwilight.warhammer_knightly": "骑士战槌",
+	"item.spartantwilight.warhammer_steeleaf": "钢叶战槌",
+
+	"item.spartantwilight.katana_ironwood": "铁树武士刀",
+	"item.spartantwilight.katana_fiery": "炽铁武士刀",
+	"item.spartantwilight.katana_knightly": "骑士武士刀",
+	"item.spartantwilight.katana_steeleaf": "钢叶武士刀",
+
+	"item.spartantwilight.greatsword_ironwood": "铁树大剑",
+	"item.spartantwilight.greatsword_fiery": "炽铁大剑",
+	"item.spartantwilight.greatsword_knightly": "骑士大剑",
+	"item.spartantwilight.greatsword_steeleaf": "钢叶大剑",
+
+	"item.spartantwilight.boomerang_ironwood": "铁树回旋镖",
+	"item.spartantwilight.boomerang_fiery": "炽铁回旋镖",
+	"item.spartantwilight.boomerang_knightly": "骑士回旋镖",
+	"item.spartantwilight.boomerang_steeleaf": "钢叶回旋镖",
+
+	"item.spartantwilight.heavy_crossbow_ironwood": "铁树强化重弩",
+	"item.spartantwilight.heavy_crossbow_fiery": "炽铁强化重弩",
+	"item.spartantwilight.heavy_crossbow_knightly": "骑士强化重弩",
+	"item.spartantwilight.heavy_crossbow_steeleaf": "钢叶强化重弩",
+
+	"item.spartantwilight.javelin_ironwood": "铁树标枪",
+	"item.spartantwilight.javelin_fiery": "炽铁标枪",
+	"item.spartantwilight.javelin_knightly": "骑士标枪",
+	"item.spartantwilight.javelin_steeleaf": "钢叶标枪",
+
+	"item.spartantwilight.throwing_knife_ironwood": "铁树飞刀",
+	"item.spartantwilight.throwing_knife_fiery": "炽铁飞刀",
+	"item.spartantwilight.throwing_knife_knightly": "骑士飞刀",
+	"item.spartantwilight.throwing_knife_steeleaf": "钢叶飞刀",
+
+	"item.spartantwilight.tomahawk_ironwood": "铁树投斧",
+	"item.spartantwilight.tomahawk_fiery": "炽铁投斧",
+	"item.spartantwilight.tomahawk_knightly": "骑士投斧",
+	"item.spartantwilight.tomahawk_steeleaf": "钢叶投斧",
+
+	"item.spartantwilight.parrying_dagger_ironwood": "铁树格挡匕首",
+	"item.spartantwilight.parrying_dagger_fiery": "炽铁格挡匕首",
+	"item.spartantwilight.parrying_dagger_knightly": "骑士格挡匕首",
+	"item.spartantwilight.parrying_dagger_steeleaf": "钢叶格挡匕首",
+	
+	"item.spartantwilight.scythe_ironwood": "铁树战镰",
+	"item.spartantwilight.scythe_fiery": "炽铁战镰",
+	"item.spartantwilight.scythe_knightly": "骑士战镰",
+	"item.spartantwilight.scythe_steeleaf": "钢叶战镰",
+
+	"item.spartantwilight.blaze_pole": "烈焰长杆",
+
+	"tooltip.spartantwilight.trait.fiery": "炽烈",
+	"tooltip.spartantwilight.trait.fiery.desc": "点燃击中的目标",
+
+	"tooltip.spartantwilight.trait.knightly": "战技",
+	"tooltip.spartantwilight.trait.knightly.desc": "对有护甲的目标造成2点额外伤害",
+
+	"itemGroup.sw_twilight_forest": "斯巴达武器：暮色森林"
+}
